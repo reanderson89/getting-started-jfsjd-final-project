@@ -16,4 +16,5 @@ Implement a fully working web application with the following layers:
 * Each Sprint will have a **retrospective** at the end.
 * At the end of the project, you and your group will do a **final project presentation** to the entire class.
 
+You can use [this old group activity](https://github.com/reanderson89/JFS_NAT_006_Activity_Bank/blob/main/01-git-github-scrum/04-Scrum-Github-ABC-Activity/README.md) we did to help you get started with setting up your github repo, adding collaborators, setting security on main, common git commands, setting up a project board vie the "scrum walkthrough" link, and publishing your page.
 
